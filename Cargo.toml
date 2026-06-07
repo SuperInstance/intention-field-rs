@@ -1,0 +1,8 @@
+[package]
+name = "intention-field-rs"
+version = "0.1.0"
+edition = "2021"
+description = "Shared intention field for collective musical direction without a leader"
+license = "MIT"
+
+[dependencies]
